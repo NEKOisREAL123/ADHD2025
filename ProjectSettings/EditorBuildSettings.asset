@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Selection.unity
+    guid: 842c512098c004142b2a51d9c5d7d009
+  - enabled: 1
+    path: Assets/Scenes/MemoryCardGame.unity
+    guid: ead71cb8c8175eb48a65343b540568d1
+  - enabled: 1
+    path: Assets/Scenes/AnsGame.unity
+    guid: 1f5f67e96a76dd041b5b9c7053628669
+  - enabled: 1
+    path: Assets/Scenes/Mazes 1.unity
+    guid: bbe1dd954d3c35e47917fc90f6d14a6f
+  - enabled: 1
+    path: Assets/Scenes/TryAgain.unity
+    guid: 1d77088f7b5d54845ad1724ada710329
+  - enabled: 0
+    path: Assets/Scenes/Mazes.unity
+    guid: 26b0c05ee4590f54da8d255d434f11a6
+  m_configObjects: {}
